@@ -1,0 +1,29 @@
+/* grouping selectrors */ 
+
+.read {
+    color: white;
+    background-color: black;
+}
+.unread {
+    color: white;
+    background-color: white;
+    background-color: black;
+}
+
+.read, .unread {
+    color: white;
+    background-color: black;
+}
+
+.read {
+    font-size: larger;
+}
+.unread {
+    font-size: x-small;
+}
+.subsection.header {
+    color:blueviolet;
+}
+.subsection#preview {
+    color:blue;
+}
